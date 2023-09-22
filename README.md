@@ -26,4 +26,4 @@ H = Hackathon; B = Bootcamp
 
 ## Project ideas
 
-Check out the [Projects page](https://github.com/orgs/retune-commons/projects/1) if you want to browse for one you might like to join. If you want to submit your own proposal but are not a member of ReTune Commone, contact us with your GitHub username and we will grant you access!
+Check out the [Projects page](https://github.com/orgs/retune-commons/projects/1) if you want to browse for one you might like to join. If you want to submit your own proposal but are not a member of ReTune Commons, contact us with your GitHub username and we will grant you access!
